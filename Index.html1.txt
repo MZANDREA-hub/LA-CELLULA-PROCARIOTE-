@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>La Cellula Procariote - Analisi Completa</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(135deg, #1c1c1c, #2c3e50);
+            color: #f4f4f4;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: #111;
+        }
+
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #00d4ff;
+        }
+
+        nav {
+            background: #222;
+            padding: 15px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+        }
+
+        nav a {
+            color: #00d4ff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: white;
+        }
+
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 50px 20px;
+        }
+
+        h2 {
+            color: #00d4ff;
+            border-bottom: 2px solid #00d4ff;
+            padding-bottom: 10px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.08);
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: #111;
+            font-size: 0.9em;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>La Cellula Procariote</h1>
+    <p>Analisi completa di ogni componente</p>
+</header>
+
+<nav>
+    <a href="#introduzione">Introduzione</a>
+    <a href="#membrana">Membrana</a>
+    <a href="#parete">Parete Cellulare</a>
+    <a href="#citoplasma">Citoplasma</a>
+    <a href="#dna">DNA e Nucleoide</a>
+    <a href="#plasmidi">Plasmidi</a>
+    <a href="#ribosomi">Ribosomi</a>
+    <a href="#flagelli">Flagelli</a>
+    <a href="#capsula">Capsula</a>
+    <a href="#conclusione">Conclusione</a>
+</nav>
+
+<section id="introduzione">
+    <h2>Introduzione</h2>
+    <div class="card">
+        <p>
+            La cellula procariote è una cellula semplice che non possiede un nucleo vero e proprio.
+            È tipica dei batteri ed è una delle forme di vita più antiche sulla Terra.
+            Anche se è più semplice rispetto alla cellula eucariote, riesce comunque a svolgere tutte
+            le funzioni vitali necessarie per sopravvivere.
+        </p>
+    </div>
+</section>
+
+<section id="membrana">
+    <h2>Membrana Plasmatica</h2>
+    <div class="card">
+        <p>
+            La membrana plasmatica è uno strato sottile che circonda la cellula.
+            Ha il compito di proteggere la cellula e di regolare l’ingresso e l’uscita delle sostanze.
+            Grazie a essa, la cellula può controllare cosa entra (come nutrienti)
+            e cosa esce (come sostanze di rifiuto).
+        </p>
+    </div>
+</section>
+
+<section id="parete">
+    <h2>Parete Cellulare</h2>
+    <div class="card">
+        <p>
+            All’esterno della membrana plasmatica si trova spesso la parete cellulare.
+            Questa struttura è rigida e serve a dare forma e protezione alla cellula.
+            Nei batteri è composta principalmente da peptidoglicano.
+            La parete impedisce alla cellula di rompersi in ambienti con molta acqua.
+        </p>
+    </div>
+</section>
+
+<section id="citoplasma">
+    <h2>Citoplasma</h2>
+    <div class="card">
+        <p>
+            Il citoplasma è una sostanza gelatinosa che riempie l’interno della cellula.
+            In esso avvengono molte reazioni chimiche fondamentali per la vita.
+            Contiene enzimi, ribosomi e il materiale genetico.
+        </p>
+    </div>
+</section>
+
+<section id="dna">
+    <h2>DNA e Nucleoide</h2>
+    <div class="card">
+        <p>
+            Il DNA della cellula procariote non è racchiuso in un nucleo.
+            Si trova in una zona chiamata nucleoide.
+            Il DNA è generalmente circolare e contiene tutte le informazioni
+            necessarie per il funzionamento della cellula.
+        </p>
+    </div>
+</section>
+
+<section id="plasmidi">
+    <h2>Plasmidi</h2>
+    <div class="card">
+        <p>
+            I plasmidi sono piccoli anelli di DNA presenti in alcune cellule procariote.
+            Contengono informazioni aggiuntive che possono essere utili,
+            ad esempio per la resistenza agli antibiotici.
+        </p>
+    </div>
+</section>
+
+<section id="ribosomi">
+    <h2>Ribosomi</h2>
+    <div class="card">
+        <p>
+            I ribosomi sono piccole strutture presenti nel citoplasma.
+            Hanno il compito di produrre proteine, fondamentali per la vita della cellula.
+            Anche se sono molto piccoli, svolgono una funzione essenziale.
+        </p>
+    </div>
+</section>
+
+<section id="flagelli">
+    <h2>Flagelli</h2>
+    <div class="card">
+        <p>
+            I flagelli sono strutture simili a una coda che permettono alla cellula
+            di muoversi. Non tutte le cellule procariote li possiedono,
+            ma quando sono presenti aiutano il batterio a spostarsi verso ambienti più favorevoli.
+        </p>
+    </div>
+</section>
+
+<section id="capsula">
+    <h2>Capsula</h2>
+    <div class="card">
+        <p>
+            Alcuni batteri possiedono una capsula esterna.
+            Questa struttura serve come protezione aggiuntiva
+            e aiuta il batterio a difendersi dal sistema immunitario
+            o da condizioni ambientali difficili.
+        </p>
+    </div>
+</section>
+
+<section id="conclusione">
+    <h2>Conclusione</h2>
+    <div class="card">
+        <p>
+            Anche se la cellula procariote è semplice,
+            è estremamente efficiente e adattabile.
+            Grazie alla sua struttura riesce a vivere in ambienti molto diversi,
+            anche estremi. È una forma di vita fondamentale per l’equilibrio
+            degli ecosistemi e per la vita sulla Terra.
+        </p>
+    </div>
+</section>
+
+<footer>
+    Progetto di Scienze - La Cellula Procariote | 2026
+</footer>
+
+</body>
+</html>
